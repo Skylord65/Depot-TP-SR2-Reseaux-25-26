@@ -11,3 +11,5 @@ perf.txt
 # Python virtual env
 venv/
 
+# VScode files
+.vscode
